@@ -105,15 +105,15 @@ git clone https://github.com/Vinay-7974/Student-Management-System.git
 
 ### 🏠 Student Registration
 
-![Student Registration](screenshots/home.png)
+![Student Registration](screenshots/home.PNG)
 
 ### ✏️ Update Student
 
-![Update Student](screenshots/update.png)
+![Update Student](screenshots/update.PNG)
 
 ### 👨‍🎓 View Students
 
-![View Students](screenshots/view.png)
+![View Students](screenshots/view.PNG)
 
 ## 🎯 Learning Outcomes
 
